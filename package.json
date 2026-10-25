@@ -1,0 +1,20 @@
+{
+  "name": "@zyanmd/dev-toolkit",
+  "version": "1.0.0",
+  "description": "A lightweight collection of modular developer utilities and helper tools.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "keywords": [
+    "utilities",
+    "helpers",
+    "developer-tools",
+    "toolkit"
+  ],
+  "author": "Hanz <161605864+zyanmd@users.noreply.github.com>",
+  "contributors": [
+    "Muhammad Bayu Ariyadi <81476775+BayuAriyadi@users.noreply.github.com>"
+  ],
+  "license": "MIT"
+}
